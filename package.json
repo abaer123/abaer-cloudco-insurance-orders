@@ -29,7 +29,7 @@
     "wd": "latest"
   },
   "devDependencies": {
-    "dotenv": "2.0.x"
+    "dotenv": "10.0.x"
   },
   "repository": {
     "type": "git",
